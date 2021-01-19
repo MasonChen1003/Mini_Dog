@@ -16,7 +16,7 @@
 
 ## 步驟一: 燒錄程式
 1. 先用 usb 插上 TinyPlan97
-2. 打開 upload tool, 選擇 com 及要上傳的 bin file : Mini_Dog_7697_V7RC_V101.ino.bin
+2. 打開 upload tool, 選擇 com port 及要上傳的 bin file : Mini_Dog_7697_V7RC_V101.ino.bin
 ![image](tool.png)
 
 3. 按右邊 Upload to 7697 鍵後，出現燒錄視窗，此時可看到 TinyPlan97 燒錄燈亮起，待視窗及燒錄燈熄時即燒錄成功
