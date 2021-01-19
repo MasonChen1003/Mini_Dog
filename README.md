@@ -10,6 +10,8 @@
 - TinyPlan97 x 1 (MiniPlan 設計的硬體 https://www.facebook.com/MiniPlanRobot)
 - SG90 x 4 
 - 3d 零件 x 5 (底座 x 1 , 左右 Mirror 腳各 2) 
+![image](3d_print_all.png)
+
 - M2x8 螺絲 x 2
 
 步驟一: 燒錄程式
@@ -19,6 +21,8 @@
 
 步驟二: 組裝
 1. 照下面的圖，TinyPlan97 放在底座中間，斜對角鎖上 M2x8 螺絲
+
+![image](MiniDog_2.jpg)
 2. 將四顆 SG90 馬達，鎖在底座四邊
 3. 舵柄卡入腳部 3D 件並合上軸心
 4. SG90 使用有華司的螺絲鎖上
