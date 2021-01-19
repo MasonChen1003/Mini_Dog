@@ -2,9 +2,9 @@
 
 ![image](MiniDog_1.jpg)
 
-##使用 TinyPlan97 簡單設計的 Mini_Dog by Mason (https://www.facebook.com/mason.chen.1420) 
+## 使用 TinyPlan97 簡單設計的 Mini_Dog by Mason (https://www.facebook.com/mason.chen.1420) 
 
-##操作軟體使用 V7RC 為嵐奕科技設計的 app  (https://www.facebook.com/v7ideaTech/)
+## 操作軟體使用 V7RC 為嵐奕科技設計的 app  (https://www.facebook.com/v7ideaTech/)
 
 材料 : 
 - TinyPlan97 x 1 (MiniPlan 設計的硬體 https://www.facebook.com/MiniPlanRobot)
@@ -28,6 +28,7 @@
 4. SG90 使用有華司的螺絲鎖上
 
 步驟三: 使用 V7RC 來操作
+![image](V7RC.jpg)
 1. 手機或平板先裝上 V7RC (IOS/Android 皆可) 
 2. 將 Mini Dog 上電，V7RC 點裝置應可找到 Dog-XXXX 的裝置並連接上
 3. 控制介面選"坦克"模式即可控制
