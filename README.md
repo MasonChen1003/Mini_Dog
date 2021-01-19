@@ -20,12 +20,14 @@
 1. 先用 usb 插上 TinyPlan97
 2. 打開 upload tool, 選擇 com 及要上傳的 bin file : Mini_Dog_7697_V7RC_V101.ino.bin
 ![image](tool.png)
+
 3. 按右邊 Upload to 7697 鍵後，出現燒錄視窗，此時可看到 TinyPlan97 燒錄燈亮起，待視窗及燒錄燈熄時即燒錄成功
 
 步驟二: 組裝
 1. 照下面的圖，TinyPlan97 放在底座中間，斜對角鎖上 M2x8 螺絲
 
 ![image](MiniDog_2.jpg)
+
 2. 將四顆 SG90 馬達，鎖在底座四邊
 3. 舵柄卡入腳部 3D 件並合上軸心
 4. SG90 使用有華司的螺絲鎖上
