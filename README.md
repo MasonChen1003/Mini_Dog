@@ -5,7 +5,7 @@
 操作軟體使用 V7RC 為嵐奕科技設計的 app  (https://www.facebook.com/v7ideaTech/)
 
 材料 : 
-- TinyPlan97 x 1 
+- TinyPlan97 x 1 (MiniPlan 設計的硬體 https://www.facebook.com/MiniPlanRobot)
 - SG90 x 4 
 - 3d 零件 x 5 (底座 x 1 , 左右 Mirror 腳各 2) 
 - M2x8 螺絲 x 2
