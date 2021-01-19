@@ -4,7 +4,7 @@
 
 ## 操作軟體使用 V7RC 為嵐奕科技設計的 app  (https://www.facebook.com/v7ideaTech/)
 
-## 主控制板 TinyPlan97 為 MiniPlan 設計的硬體 https://www.facebook.com/MiniPlanRobot)
+## 主控制板 TinyPlan97 為 MiniPlan 設計的硬體 (https://www.facebook.com/MiniPlanRobot)
 
 ## 材料 : 
 - TinyPlan97 x 1 
