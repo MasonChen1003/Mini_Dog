@@ -12,7 +12,7 @@
 - 3d 零件 x 5 (底座 x 1 , 左右 Mirror 腳各 2) 
 ![image](3d_print_all.png)
 
-- M2x8 螺絲 x 2
+- M2x8 螺絲 x 2  (鎖固 TinyPlan97 用)
 
 ## 步驟一: 燒錄程式
 1. 先用 usb 插上 TinyPlan97
