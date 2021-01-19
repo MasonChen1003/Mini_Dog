@@ -1,6 +1,8 @@
 # Mini_Dog
 
-使用 TinyPlan97 簡單設計的 Mini_Dog by Mason
+使用 TinyPlan97 簡單設計的 Mini_Dog by Mason (https://www.facebook.com/mason.chen.1420) 
+
+操作軟體使用 V7RC 為嵐奕科技設計的 app  (https://www.facebook.com/v7ideaTech/)
 
 材料 : 
 - TinyPlan97 x 1 
