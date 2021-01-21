@@ -35,3 +35,7 @@
 2. 將 Mini Dog 上電，V7RC 點裝置應可找到 Dog-XXXX 的裝置並連接上
 3. 控制介面選"坦克"模式即可控制
 
+## 2021/1/21 實驗用 Scratch 3 來控制
+1. 請改燒錄 Mini_Dog_7697_SC3_V103.ino.bin 
+2. 使用官方版 Scratch 3, 把 Mini Dog 當成 microbit 裝置 (需安裝 Scratch link 來連線) 
+3. 用 microbit 顯示文字積木來控制.  F 前進，B 後退，L 左轉、R 右轉 
