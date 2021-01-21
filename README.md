@@ -6,6 +6,9 @@
 ![image](sc3_link.png)
 3. 用 microbit 顯示文字積木來控制.  F 前進，B 後退，L 左轉、R 右轉 
 ![image](sc3_control.png)
+
+
+
 ![image](MiniDog_1.jpg)
 
 ## 操作軟體使用 V7RC 為嵐奕科技設計的 app  (https://www.facebook.com/v7ideaTech/)
