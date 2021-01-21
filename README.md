@@ -38,4 +38,6 @@
 ## 2021/1/21 實驗用 Scratch 3 來控制
 1. 請改燒錄 Mini_Dog_7697_SC3_V103.ino.bin 
 2. 使用官方版 Scratch 3, 把 Mini Dog 當成 microbit 裝置 (需安裝 Scratch link 來連線) 
+![image](sc3_link.png)
 3. 用 microbit 顯示文字積木來控制.  F 前進，B 後退，L 左轉、R 右轉 
+![image](sc3_control.png)
